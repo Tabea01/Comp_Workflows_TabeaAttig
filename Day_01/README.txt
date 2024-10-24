@@ -4,4 +4,8 @@ Therefore, I don't have any "output" below the code.
 I tried it again at home after the course, and surprisingly got output (without changing the code, but of course with different duration of each run!), which is why I also included "day_01_test2.ipynb", in case you want to see output.
 
 Also, the plots from the last task are not shown correctly, which is why I also included them as png inside of the Day_01 folder:
+1. boxplot.png
+2. density.png
+3. treatment_mCherry_hND6_sample_number.deseq2.dispersion.png
+4. sample_dendrogram.png
 
